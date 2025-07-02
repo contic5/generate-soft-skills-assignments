@@ -1,0 +1,7 @@
+Given a few variables, the program should be able to generate a soft skills research assignment.
+
+Variables
+Topic
+Questions (5) Total
+
+Potential Soft skills
